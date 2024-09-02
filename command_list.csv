@@ -1,0 +1,115 @@
+    1  man cd
+    2  man ls
+    3  q
+    4  help ls
+    5  ls
+    6  rs
+    7  help ls
+    8  /help ls
+    9  help
+   10  clear
+   11  ls
+   12  info
+   13  LS
+   14  ds
+   15  ls
+   16  clear
+   17  ls--help
+   18  is --help
+   19  clear
+   20  cd test
+   21  cd 1
+   22  cd lesson2
+   23  cd lesson2 
+   24  cd lesson2
+   25  cd ~
+   26  cd /
+   27  cd
+   28  cd Lesson32
+   29   cd Lesson32
+   30  cd~
+   31  cd ~
+   32  clear
+   33  ls Lesson32
+   34  ping google.com
+   35  touch empty.txt
+   36  pwd
+   37  pwd
+   38  mkdir Test1
+   39  ls
+   40  touch fil.txt
+   41  vim fil.txt
+   42  vim fil.txt
+   43  nano fil.txt
+   44  nano fil.txt
+   45  nano fil.txt
+   46  cat fil.txt
+   47  clear
+   48  nano fil.txt
+   49  lon
+   50  long
+   51  info
+   52  [200~git config --global user.name "Ivan Ivanov"
+   53  git config --global user.name "Oleg Zemlanizki"
+   54  git config --user.email Oleg.Zemlanscki@gmaill.com
+   55  git clone https://github.com/OlegZemlyanitsky/HW_10.git
+   56  git info
+   57  git status
+   58  cd HW_10
+   59  get status
+   60  git status
+   61  git clone https://github.com/OlegZemlyanitsky/HW_10.git
+   62  git status
+   63  cd HW_10
+   64  git status
+   65  ls
+   66  touch text_ignore.txt
+   67  nano .gitignore
+   68  git statux
+   69  git status
+   70  git add
+   71  git status
+   72  git status
+   73  git add
+   74  touch text_ignore.txt
+   75  git status
+   76  git add .gitignore
+   77  git status
+   78  git commit -m "text_ignore.txt added new fails"
+   79  git status
+   80  git commit -m "text_ignore"
+   81  git config --global user.name "Oleg Zemlanizki"
+   82  git config --global user.email karlson928@ukr.net
+   83  git commit -m "text_ignore"
+   84  cd HW_10
+   85  touch main_test.txt
+   86  git status
+   87  git add main_test.txt
+   88  git status
+   89  git commit -m "main_test.txt added new fail"
+   90  git checkout -b develop
+   91  touch develop_test.txt
+   92  git status
+   93  git add develop_test.txt
+   94  git status
+   95  git commit -m "develop_test.txt added new fail"
+   96  nano develop_test.txt
+   97  git status
+   98  git add develop_test.txt
+   99  git status
+  100  git coomit -m "redaction develop_test.txt task 3.8"
+  101  git coommit -m "redaction develop_test.txt task 3.8"
+  102  git coommit -m "Task 3"
+  103  git status
+  104  git commit -m "dd"
+  105  git checkout main
+  106  git merge develop
+  107  git log
+  108  git branch
+  109  git merge main
+  110  git branch
+  111  git merge develop
+  112  git branch
+  113  get status
+  114  command_list.csv
+  115  history > command_list.csv
